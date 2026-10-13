@@ -1,4 +1,5 @@
 Last Mile Delivery Analysis
+
 📌 Project Overview
 
 Last Mile Delivery Analysis is a SQL-based data analysis project focused on understanding delivery performance, customer orders, delivery zones, depots, and operational efficiency.
@@ -6,6 +7,7 @@ Last Mile Delivery Analysis is a SQL-based data analysis project focused on unde
 The project uses SQL to analyze delivery data and generate meaningful business insights.
 
 🛠️ Tools & Technologies
+
 MySQL
 MySQL Workbench
 SQL
@@ -13,6 +15,7 @@ ER Diagram
 PowerPoint
 
 📊 Key Analysis
+
 Delivery performance analysis
 Customer and order analysis
 Delivery zone analysis
